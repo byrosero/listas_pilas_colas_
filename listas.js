@@ -1,0 +1,1 @@
+let nombres = ["Ana", "Juan", "Pedro", "María"];
