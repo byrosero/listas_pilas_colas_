@@ -7,5 +7,3 @@ for(elemento of nombres){
 }
 
 nombres.shift()
-
-console.log("longuitud de la lista: ",nombres.length)
